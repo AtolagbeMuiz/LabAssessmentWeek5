@@ -1,0 +1,16 @@
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\obj\Debug\net5.0\LabAssessment.csprojAssemblyReference.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\obj\Debug\net5.0\LabAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\obj\Debug\net5.0\LabAssessment.AssemblyInfoInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\obj\Debug\net5.0\LabAssessment.AssemblyInfo.cs
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\obj\Debug\net5.0\LabAssessment.csproj.CoreCompileInputs.cache
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\bin\Debug\net5.0\LabAssessment.exe
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\bin\Debug\net5.0\LabAssessment.deps.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\bin\Debug\net5.0\LabAssessment.runtimeconfig.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\bin\Debug\net5.0\LabAssessment.runtimeconfig.dev.json
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\bin\Debug\net5.0\LabAssessment.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\bin\Debug\net5.0\ref\LabAssessment.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\bin\Debug\net5.0\LabAssessment.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\obj\Debug\net5.0\LabAssessment.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\obj\Debug\net5.0\ref\LabAssessment.dll
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\obj\Debug\net5.0\LabAssessment.pdb
+C:\Users\ATOLAGBE MUIZ_O\Desktop\C# Classes\LabAssessment\obj\Debug\net5.0\LabAssessment.genruntimeconfig.cache
